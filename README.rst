@@ -128,7 +128,6 @@ Self-supervised learning (SSL) — это широко используемый 
 
 `Лекция 4 <https://github.com/maremun/SSL-2025/blob/main/lec4/lecture04.pdf>`_
 ************************************************
-- Self-Distillation: BYOL, SimSiam.
 - Clustering: SwAV.
 - Collapse in Contrastive learning.
 - Dimensional collapse.
