@@ -78,7 +78,7 @@ Self-supervised learning (SSL) — это широко используемый 
 ************************************************
 - Начало: 11.10.2025.  
 - Дедлайн: 23:59 27.10.2025.
-- Задание `тык <https://t.me/+hV5I68RF9vA4OTgy>`_ 
+- Задание `тык <https://github.com/maremun/SSL-2025/blob/main/homework/Homework1.ipynb>`_ 
 - Решение (код + отчет) прислать на почту <ssl24hse@gmail.com> с темой письма ``{ФамилияИО}-ДЗ1``, например ``ЛыковаЕА-ДЗ1``.
 - Цель: реализовать одну из вспомогательных задач, обучить ResNet18 на наборе изображений.  
 - Требуется:
@@ -96,7 +96,7 @@ Self-supervised learning (SSL) — это широко используемый 
 План занятий
 ===============
 
-`Вводная лекция <https://t.me/+hV5I68RF9vA4OTgy>`_
+`Вводная лекция <https://github.com/maremun/SSL-2025/blob/main/lec1/lecture01.pdf>`_
 ************************************************
 - Проект: требования, постановка и оценивание. 
 - Введение в self-supervised learning.
@@ -106,7 +106,7 @@ Self-supervised learning (SSL) — это широко используемый 
 - Representation learning.
 - Какие репрезентации 'хорошие'?
 
-`Лекция 2 <https://t.me/+hV5I68RF9vA4OTgy>`_
+`Лекция 2 <https://github.com/maremun/SSL-2025/blob/main/lec2/lecture02.pdf>`_
 ************************************************
 - Как оценивать качество получаемых репрезентаций?
 - Linear probing & kNN
@@ -118,7 +118,7 @@ Self-supervised learning (SSL) — это широко используемый 
 - Deep Cluster.
 - Risk decomposition for SSL models, Representation usability.
 
-`Лекция 3 <https://t.me/+hV5I68RF9vA4OTgy>`_
+`Лекция 3 <https://github.com/maremun/SSL-2025/blob/main/lec3/lecture03.pdf>`_
 ************************************************
 - Mutual Information
 - Multi-View Redundancy
@@ -126,7 +126,7 @@ Self-supervised learning (SSL) — это широко используемый 
 - InfoNCE - a lower bound for MI.
 - Self-Distillation: BYOL, SimSiam.
 
-`Лекция 4 <https://t.me/+hV5I68RF9vA4OTgy>`_
+`Лекция 4 <https://github.com/maremun/SSL-2025/blob/main/lec4/lecture04.pdf>`_
 ************************************************
 - Self-Distillation: BYOL, SimSiam.
 - Clustering: SwAV.
